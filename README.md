@@ -26,7 +26,7 @@
 ## Stats
 
 ![ViRybalkin's github stats](https://github-readme-stats.vercel.app/api?username=ViRybalkin&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=fasle)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViRybalkin&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![alt rank](https://www.codewars.com/users/ViRybalkin/badges/large)
+<img src="https://wakatime.com/share/@9257b821-b75e-4508-b1e0-9e5074f2a8a6/dc0483a9-a450-4b72-93c1-db060ea6f897.svg" height="400" width="850"/>
 
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.   
 >  ***Linus Torvalds***
