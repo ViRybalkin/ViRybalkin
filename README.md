@@ -7,7 +7,7 @@
 ## About Me
 🏠 I'm **Front-end Developer**  living in **Saint-Petersburg**.   
 ⭐  I'm currently work with **JavaScript**, **TypeScript** and **React**   
-❤️ And I enjoy making  beautiful web sites on **HTML**,**CSS** and **JavaScript** 
+❤️ And I enjoy making  beautiful web applications on **HTML**,**CSS** and **JavaScript** 
 
 ### Languages and Tools    
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=html5)
